@@ -1,0 +1,2 @@
+---@meta _
+---@alias UwoweaEvents.EventName FrameEvent
